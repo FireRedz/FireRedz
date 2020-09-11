@@ -1,1 +1,1 @@
-![alt text](rem.jpg)
+![](rem.jpg)

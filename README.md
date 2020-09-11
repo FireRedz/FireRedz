@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/FireRedz/FireRedz/master/rem.jpg)
+![](https://raw.githubusercontent.com/FireRedz/FireRedz/master/rem.png)

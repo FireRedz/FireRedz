@@ -1,8 +1,9 @@
 
-
-
 <p align="center">
-  <a href="https://github.com/FireRedz/FireRedz/">
-  <img src="https://raw.githubusercontent.com/FireRedz/FireRedz/master/rem.png">
-  </a>
+  <img src="https://raw.githubusercontent.com/FireRedz/FireRedz/master/rem.png" alt="rem">
 </p>
+
+##
+me name redz
+
+Discord: `FireRedz#5223`

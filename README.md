@@ -9,3 +9,4 @@ me name redz
 Discord: `FireRedz#5223`
 
 ## no homo I'm straight
+yes

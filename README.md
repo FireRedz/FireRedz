@@ -7,6 +7,5 @@
 </p>
 
 ##
-Nicknames: fireredz, redz, the pisser, piss, gamer, man. </br>
 Discord: `FireRedz#7765` </br>
 Go visit my [homepage](https://yuzumi.yuzuhara.tk/), its really cool. </br>

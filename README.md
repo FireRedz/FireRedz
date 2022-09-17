@@ -7,5 +7,5 @@
 </p>
 
 ##
-Discord: `FireRedz#7765` </br>
+Discord: `FireRedz#0537` </br>
 Go visit my [homepage](https://yuzumi.yuzuhara.tk/), its really cool. </br>

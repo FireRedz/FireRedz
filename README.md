@@ -8,4 +8,4 @@
 
 ##
 Discord: `FireRedz#0537` </br>
-Go visit my [homepage](https://yuzumi.yuzuhara.tk/), its really cool. </br>
+Go visit my [homepage](https://junko.konno.tk/), its really cool. </br>

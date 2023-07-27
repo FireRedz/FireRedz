@@ -9,11 +9,11 @@
 
   <hr/>
   <p align="center">
-    <img src="https://media.discordapp.net/attachments/789168002138374197/1128351237054672916/headbang.gif" alt="shondo" height=300>
+    <img src="https://media.discordapp.net/attachments/789168002138374197/1128351237054672916/headbang.gif" alt="shondo" height=200>
     <a href="https://osu.ppy.sh/users/12164982">
       <img src="https://osu-sig.vercel.app/card?user=12164982&mode=std&lang=en&blur=6&animation=true" />
     </a>
-    <img src="https://media.discordapp.net/attachments/789168002138374197/1128351237054672916/headbang.gif" alt="shondo" height=300>
+    <img src="https://media.discordapp.net/attachments/789168002138374197/1128351237054672916/headbang.gif" alt="shondo" height=200>
   </p>
 </p>
 

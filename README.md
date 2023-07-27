@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/FireRedz/FireRedz/master/rem.png" alt="rem">
   
@@ -17,3 +16,6 @@
   </p>
 </p>
 
+<!-- Socials -->
+[github]: https://github.com/xjunko
+[discord]: https://discord.com/users/xjunko

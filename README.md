@@ -61,7 +61,7 @@
   <img src="https://c.tenor.com/tdLMhEHtcZ8AAAAd/tenor.gif" align="right" width=350 >
 
   # </ Language >
-- 🇲🇾 [ Melayu ]: Native, less fluent than English lmao.
+- 🇲🇾 [ Melayu ]: Native
 - 🇬🇧 [ English ]: Mostly Fluent
 - 🇸🇦 [ Arabic ]: Mostly fluent in reading, didn't understand a single thing.
 - 🇯🇵 [ Japan ]: I only know how curse people out and write basic hiragana.

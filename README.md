@@ -58,7 +58,7 @@
 </p>
 
 <p float="left">
-  <img src="https://c.tenor.com/tdLMhEHtcZ8AAAAd/tenor.gif" align="right" width=400 >
+  <img src="https://c.tenor.com/tdLMhEHtcZ8AAAAd/tenor.gif" align="right" width=350 >
 
   # </ Language >
 - 🇲🇾 [ Melayu ]: Native, less fluent than English lmao.

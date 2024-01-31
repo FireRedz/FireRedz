@@ -13,8 +13,8 @@
     <h1> &lt;/ Contact &gt; </h1>
     <p float="left">
       <a href="https://discord.com/users/xjunko"><img src="https://profile-kozeki-ui.vercel.app/discord/info" align="right"></a>
-      <b>[Active] Discord:</b> <code>xjunko</code> <br>
-      <b>[Rarely active] Revolt:</b> <code>junkokonno#7784</code> <br>
+      <b>[✅] Discord:</b> <code>xjunko</code> <br>
+      <b>[🆗] Revolt:</b> <code>junkokonno#7784</code> <br>
       I don't really use anything else besides that.
     </p>
   </p>

@@ -64,7 +64,7 @@
 - 🇲🇾 [ Melayu ]: Native
 - 🇬🇧 [ English ]: Mostly Fluent
 - 🇸🇦 [ Arabic ]: Mostly fluent in reading, didn't understand a single thing.
-- 🇯🇵 [ Japan ]: I only know how curse people out and write basic hiragana.
+- 🇯🇵 [ Japan ]: I only know how to curse people out and write basic hiragana.
 </p>
 
 <hr>

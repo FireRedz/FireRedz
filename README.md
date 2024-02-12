@@ -67,7 +67,7 @@
 - 🇯🇵 [ Japan ]: I only know how to curse people out and write basic hiragana.
 </p>
 
-<img src="https://lets-all-love-miku.vercel.app/" width="395" align="left">
+<img src="https://lets-all-love-miku.vercel.app/spotify" width="395" align="left">
 
 <hr>
 <p align="center">

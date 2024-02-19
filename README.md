@@ -71,6 +71,12 @@
 <img src="https://lets-all-love-miku.vercel.app/spotify" width="395" align="left">
 
 <hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xjunko&theme=blue_navy&show_icons=true" width="300">
+</p>
+
+<br/>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFireReddz&count_bg=%23000000&title_bg=%230A0A0A&icon=&icon_color=%23000000&title=HITS&edge_flat=true"/>
 </p>

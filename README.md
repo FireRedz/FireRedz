@@ -73,7 +73,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xjunko&theme=blue_navy&show_icons=true" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=xjunko&theme=blue_navy&show_icons=true" width="350">
 </p>
 
 <br/>

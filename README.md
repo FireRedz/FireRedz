@@ -4,7 +4,7 @@
   <!-- Info -->
   <p float="left">
     <h1> &lt;/ xJunko &gt; </h1>
-    Currently is a student, majoring in Electronic Engineering. <br/>
+    Currently is a student, majoring in Information Technology <br/>
     You can see me ranting about random stuff in life on: <a href="https://konno.ovh"> https://konno.ovh </a>
   </p>
 
